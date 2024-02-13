@@ -7,4 +7,7 @@ if(satuday = "saturday"){
     if(saturday = "saturday"){
         return saturday;
     }
+    public getDays(){
+        return saturday;
+        }
 }
